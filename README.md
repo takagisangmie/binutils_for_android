@@ -1,7 +1,10 @@
 # Binutils for Android
 
-This project provides a simple script to compile Binutils toolchain for the Android platform.
+This project provides a simple script to compile Binutils for the Android platform.
 
 ## Usage
 
-sh build_binutils.sh
+
+   ```sh
+   sh build_binutils.sh
+   ```
