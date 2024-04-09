@@ -1,0 +1,1 @@
+eaarch64elf32.c: ./emulparams/aarch64elf32.sh ./scripttempl/elf.sc ./emultempl/elf32.em ./emultempl/elf-generic.em ./emultempl/aarch64elf.em
